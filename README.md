@@ -96,12 +96,3 @@ This project is open-source and available for educational and personal use.
 Feel free to fork, improve, and customize it.
 
 ✨ Created with ❤️ by Rajan Kumar
-vbnet
-Copy
-Edit
-
-Let me know if you'd also like:
-- GitHub-style badges at the top (HTML/CSS/JS)
-- A preview GIF or image section added
-- This auto-pushed to your GitHub repo via PR or CLI instructions
-
